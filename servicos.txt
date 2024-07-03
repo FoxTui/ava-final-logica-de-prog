@@ -1,0 +1,8 @@
+Cartao de Visita;Offset;125
+Encadernacao;Capa Dura;165
+Impressao color;laser;2
+Impressao Color;Jato;0.5
+Restauracao;Biblia;200
+Encadernacao;Espiral;7.5
+Encadernacao;Flexivel;45
+Folder;Colorido Laser;250
